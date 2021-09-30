@@ -3,7 +3,7 @@ layout = "index"
 framed = true
 +++
 
-# LEV Linux
+# Sa*l*ah's Customiz*e*d *V*oid Linux
 is a personally customized Void Linux distribution that focuses on
 functionality and minimalism
 
