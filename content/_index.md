@@ -24,6 +24,7 @@ functionality and minimalism
 | Password manager | pass        |
 | Email client     | NeoMutt     |
 | Text editor      | NeoVIM      |
+| AND MORE         | AND MORE    |
 
 **Note:** in the future there will be a *minimal* and a *functional* versions
 both of which will contain fewer packages.
