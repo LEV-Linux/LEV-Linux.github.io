@@ -5,9 +5,8 @@ framed = true
 
 # Sa*l*ah's Customiz*e*d *V*oid Linux
 is a personally customized Void Linux distribution that focuses on
-functionality and minimalism
+functionality and minimalism.
 
-#### The current version contains:
 |                      |               |
 | -------------------- | ------------- |
 | **C Library**        | *musl*        |
@@ -24,9 +23,7 @@ functionality and minimalism
 | **Password manager** | *pass*        |
 | **Email client**     | *NeoMutt*     |
 | **Text editor**      | *NeoVIM*      |
+|                      |               |
 
-| AND MORE |
-| -------- |
-
-**Note:** in the future there will be a *minimal* and a *functional* versions
-both of which will contain fewer packages.
+| [AND MORE](/software) |
+| --------------------- |
