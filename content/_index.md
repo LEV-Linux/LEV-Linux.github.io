@@ -31,14 +31,14 @@ minimalism.
 ## Screenshots
 
 
-![](imgs\2nq4uleanl481.png)
-![](imgs\ba9g1s7y9ik61.png)
-![](imgs\di415ede1uz71.png)
-![](imgs\i2w6klnaa6z71.png)
-![](imgs\tglml5r4nqb71.png)
-![](imgs\usub10ohluk61.png)
-![](imgs\y2hgmuzrdaj61.png)
-![](imgs\y4yugleu89c81.png)
+![](imgs/2nq4uleanl481.png)
+![](imgs/ba9g1s7y9ik61.png)
+![](imgs/di415ede1uz71.png)
+![](imgs/i2w6klnaa6z71.png)
+![](imgs/tglml5r4nqb71.png)
+![](imgs/usub10ohluk61.png)
+![](imgs/y2hgmuzrdaj61.png)
+![](imgs/y4yugleu89c81.png)
 
 <!-- {{ $img1 := resources.Get "imgs\2nq4uleanl481.png" }} -->
 <!-- {{ $img2 := resources.Get "imgs\ba9g1s7y9ik61.png" }} -->
