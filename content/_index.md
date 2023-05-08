@@ -3,8 +3,8 @@ layout = "index"
 framed = true
 +++
 
-# LEV Linux
-is a customized Void Linux distribution that focuses on functionality and
+# *L*ight *E*nigmatic *V*oid Linux
+is a Void-based Linux distribution that focuses on functionality and
 minimalism.
 
 |                      |               |
@@ -13,9 +13,9 @@ minimalism.
 | **Window manager**   | *DWM*         |
 | **Status bar**       | *DWM Blocks*  |
 | **Terminal**         | *ST*          |
-| **Shell**            | *ZSH*         |
+| **Shell**            | *FISH*        |
 | **Lock screen**      | *SLock*       |
-| **Browser**          | *QuteBrowser* |
+| **Browser**          | *Firefox*     |
 | **Document reader**  | *Zathura*     |
 | **File manager**     | *NNN*         |
 | **Image viewer**     | *SXIV*        |
